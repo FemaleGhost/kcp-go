@@ -6,7 +6,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tjfoc/gmsm v1.4.1
 	github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.46.0
 	golang.org/x/net v0.47.0
 	golang.org/x/sys v0.38.0
 	golang.org/x/time v0.14.0
